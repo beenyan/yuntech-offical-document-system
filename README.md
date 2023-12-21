@@ -24,4 +24,4 @@ pnpm tauri build
 
 ## GUI
 
-![UI]()
+![UI](https://github.com/beenyan/yuntech-offical-document-system/blob/master/images/UI.png?raw=true)
